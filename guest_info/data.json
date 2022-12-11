@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "name": "Navoda",
+        "address": "no 7",
+        "contact": 123,
+        "date": 2020
+    },
+    {
+        "id": 5,
+        "name": "m namey",
+        "address": "no 7",
+        "contact": 123,
+        "date": 123
+    }
+]
