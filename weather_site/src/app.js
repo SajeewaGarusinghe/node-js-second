@@ -1,11 +1,19 @@
 const express = require('express');
+const path=require('path')
 const weather = require('./utils/weather.js');
 const geo = require('./utils/geo.js');
 
 const app = express();
 
+app.set('view engine', 'hbs');
+
+const publicDirPath=path.join(__dirname,"../public")
+console.log(publicDirPath);
+
+app.use(express.static(publicDirPath))
+
 app.get('/', (req, res) => {
-  res.send('<h1>hellow from Express<h1>');
+  res.send('index');
 });
 app.get('/about', (req, res) => {
   res.send('hellow from about');
