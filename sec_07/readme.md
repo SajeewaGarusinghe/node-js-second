@@ -17,7 +17,7 @@ in the templates but you should definitely not put too much in there,
 **your logic should be in the model or partly in the controller because the controller should do everything that needs to be done to connect your model and the view,so to get the data from A to B and that can involve both directions. It can mean that through your view,through a form,some data was sent to your node express application and you now need to send that to the model to save it**
 
 there or it can of course mean you're fetching data from the model or via the model and send that into a view
-which is then returned to the user.This is the MVC pattern and I will continue to work with that for the rest of this project here or for the next modules put in other words and speaking of that, our module still can use some work right,
-we're only working with a very limited set of features,even our product is just one field for now and we can certainly do better.
-So the whole next module will be on working on our project and therefore practicing all the things we learned thus far
-and of course no worries,we'll then also add databases and so on,that is all coming.
+which is then returned to the user.
+
+## Module summary
+
