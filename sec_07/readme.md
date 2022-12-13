@@ -25,4 +25,4 @@ which is then returned to the user.
 
 ## Useful resources:
 
-     *  More on  [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+*  More on  [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
