@@ -2,7 +2,7 @@
 
 That's it for this module. You learned about the important MVC pattern and there the model serves the purpose
 of representing our data and of managing our data, saving it, fetching it, later also updating it and so
-on. 
+on.
 
 **And it doesn't matter if you manage your data in memory, files or databases,it is the model which is responsible for your data,
 it contains all the data related logic.**
@@ -22,3 +22,7 @@ which is then returned to the user.
 ## Module summary
 
 [![Express Logo](https://github.com/SajeewaGarusinghe/node-js-second/blob/main/sec_07/MVC.png)]
+
+## Useful resources:
+
+     *  More on  [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
