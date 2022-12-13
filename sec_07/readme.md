@@ -21,3 +21,4 @@ which is then returned to the user.
 
 ## Module summary
 
+[![Express Logo](https://github.com/SajeewaGarusinghe/node-js-second/blob/main/sec_07/MVC.png)]
