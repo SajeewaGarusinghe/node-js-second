@@ -1,7 +1,8 @@
 That's it for this module. You learned about the important MVC pattern and there the model serves the purpose
 of representing our data and of managing our data, saving it, fetching it, later also updating it and so
-on. And it doesn't matter if you manage your data in memory, files or databases,it is the model which is responsible for your data,
-it contains all the data related logic.
+on. 
+*And it doesn't matter if you manage your data in memory, files or databases,it is the model which is responsible for your data,
+it contains all the data related logic.*
 The view on the other hand is responsible for presenting it to the user, is responsible for what the
 user sees and it shouldn't contain too much logic which might remind you of the handlebars templating
 engine which kind of forced you to not put too much logic into there. With ejs, the templating engine
