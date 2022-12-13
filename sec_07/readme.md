@@ -1,3 +1,5 @@
+[![MVC Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrcEcAb6BD4JsjVBPMo73e63AfIXak9qXlogJTJ0QZ3ouXyYORK2zzvEvAsaG3MMsJic&usqp=CAU)]
+
 That's it for this module. You learned about the important MVC pattern and there the model serves the purpose
 of representing our data and of managing our data, saving it, fetching it, later also updating it and so
 on. 
